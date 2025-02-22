@@ -11,6 +11,7 @@ Features:
 Technologies Used:
 - HTML
 - Git & GitHub
+- VS Code
 
 Getting in Touch
 If you would like to get in touch or learn more about my work, 
